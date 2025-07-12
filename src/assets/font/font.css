@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Dewi Expanded';
+  src: url('../assets/fonts/rf-dewi-expanded-regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: regular;
+}
+
+@font-face {
+  font-family: 'Dewi Expanded';
+  src: url('../assets/fonts/rf-dewi-expanded-semibold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: semibold;
+}
+
+@font-face {
+  font-family: 'Dewi Expanded';
+  src: url('../assets/fonts/rf-dewi-expanded-bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: bold;
+}
+
+@font-face {
+  font-family: 'Dewi Expanded';
+  src: url('../assets/fonts/rf-dewi-expanded-ultrabold.woff2') format('woff2');
+  font-weight: 800;
+  font-style: ultrabold;
+}
